@@ -15,3 +15,8 @@ iOS 开发。业务代码在公司 GitLab，GitHub 上公开的不多。
 ## 技术
 
 iOS / Objective-C、Python、一点 TypeScript。
+
+---
+
+还想看更多开源代码？你想看什么💕  
+私聊加我看更多❤️
