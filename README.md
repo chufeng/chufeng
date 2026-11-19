@@ -24,6 +24,6 @@ iOS / Objective-C、Python、一点 TypeScript。
 
 ---
 
-还想看更多开源代码？你想看什么💕  
-私聊加我看更多❤️  
-没有私信，去 [Issues](https://github.com/chufeng/chufeng/issues) 砸门。
+还想看更多开源代码？还是想看什么其他的？
+issues 我看更多❤️  
+没有私信，去 [Issues](https://github.com/chufeng/chufeng/issues) 砸门吧。
