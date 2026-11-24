@@ -7,7 +7,7 @@ iOS 开发。业务代码在公司 GitLab，GitHub 上公开的不多。
 ## 开源
 
 - [BoroAni](https://github.com/chufeng/BoroAni)  
-  为老款 Android 电视和盒子做的轻量追番应用，用遥控器就能找番、选集和播放。
+  为老款 Android (android5+)电视和盒子做的轻量追番应用，用遥控器就能找番、选集和播放。
 
 - [astrbot_plugin_bili_resolver](https://github.com/chufeng/astrbot_plugin_bili_resolver)  
   AstrBot 插件：解析群聊里的 B 站链接/小程序卡片，回视频摘要和封面。
