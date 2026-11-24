@@ -18,9 +18,12 @@ iOS 开发。业务代码在公司 GitLab，GitHub 上公开的不多。
 - [NewiOSOfQFNU](https://github.com/chufeng/NewiOSOfQFNU)  
   大学时写的曲园教务 iOS 客户端，当黑历史开源着。
 
-## 技术
+## Tech Stack
 
-iOS / Objective-C、Python、一点 TypeScript。
+- **Mobile:** Objective-C, UIKit, Kotlin
+- **Backend & Automation:** Python
+- **Other:** TypeScript, Git, AI Agents, 一点 TypeScript
+
 
 ---
 
